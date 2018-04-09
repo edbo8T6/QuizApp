@@ -1,0 +1,114 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+
+<style name="ButtonText" parent="@style/Theme.AppCompat">
+<!--Button font color. -->
+<item name="android:textColor">#800080</item>
+    <!--Button Font Alignment -->
+    <item name="android:textAlignment">center</item>
+<!--Button font Style. -->
+<item name="android:textStyle">bold</item>
+<!-- Button Background Color. -->
+<item name="android:background">#FFFF00</item>
+    <!-- Button Font Type -->
+    <item name="android:fontFamily">sans-serif-smallcaps</item>
+    <!-- Button Text size -->
+    <item name="android:textSize">23sp</item>
+
+</style>
+
+
+    <style name="ButtonText2" parent="@style/Theme.AppCompat">
+        <!--Button font color. -->
+        <item name="android:textColor">#FFFF00</item>
+        <!--Button Font Alignment -->
+        <item name="android:textAlignment">center</item>
+        <!--Button font Style. -->
+        <item name="android:textStyle">bold</item>
+        <!-- Button Background Color. -->
+        <item name="android:background">#800080</item>
+        <!-- Button Font Type -->
+        <item name="android:fontFamily">sans-serif-smallcaps</item>
+        <!-- Button Text size -->
+        <item name="android:textSize">23sp</item>
+
+    </style>
+
+    <!-- Questions -->
+
+    <style name="Questions" parent="@style/Theme.AppCompat">
+    <!--Question font color. -->
+    <item name="android:textColor">#800080</item>
+    <!--Question font size. -->
+    <item name="android:textSize">20sp</item>
+    <!--Question font Type. -->
+    <item name="android:fontFamily">sans-serif-condensed</item>
+    <!--Question Font Alignment -->
+    <item name="android:textAlignment">center</item>
+
+
+
+
+    </style>
+
+    <!-- Answers -->
+
+    <style name="Answers" parent="@style/Theme.AppCompat">
+        <!--Answers font color. -->
+        <item name="android:textColor">#800080</item>
+        <!--Answers font size. -->
+        <item name="android:textSize">16sp</item>
+        <!--Answers font Type. -->
+        <item name="android:fontFamily">sans-serif-smallcaps</item>
+        <!--Answers Font Alignment -->
+        <item name="android:textAlignment">center</item>
+        <!--Answers font Type. -->
+        <item name="android:textStyle">bold</item>
+
+
+    </style>
+
+    <!-- Questions -->
+
+    <style name="Questions2" parent="@style/Theme.AppCompat">
+        <!--Question font color. -->
+        <item name="android:textColor">#FFFF00</item>
+        <!--Question font size. -->
+        <item name="android:textSize">20sp</item>
+        <!--Question font Type. -->
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <!--Question Font Alignment -->
+        <item name="android:textAlignment">center</item>
+
+
+
+
+    </style>
+
+    <!-- Answers -->
+
+    <style name="Answers2" parent="@style/Theme.AppCompat">
+        <!--Answers font color. -->
+        <item name="android:textColor">#FFFF00</item>
+        <!--Answers font size. -->
+        <item name="android:textSize">16sp</item>
+        <!--Answers font Type. -->
+        <item name="android:fontFamily">sans-serif-smallcaps</item>
+        <!--Answers Font Alignment -->
+        <item name="android:textAlignment">center</item>
+        <!--Answers font Type. -->
+        <item name="android:textStyle">bold</item>
+
+
+    </style>
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="enter_name">Type Name</string>
+    <string name="lakers_wikipedia"><u>Lakers Wikipedia</u></string>
+    <string name="question_one">What 2 Coaches have 5 championships with the Lakers?</string>
+    <string name="pat_riley">Pat Riley</string>
+    <string name="phil_jackson">Phil Jackson</string>
+    <string name="john_kundla">John Kundla</string>
+    <string name="question_2">How many championships do the Lakers have?</string>
+    <string name="hint_question2">Enter Answer Here</string>
+    <string name="question3">What city where the Lakers originally from?</string>
+    <string name="los_angeles">Los Angeles</string>
+    <string name="minneapolis">Minneapolis</string>
+    <string name="brooklyn">Brooklyn</string>
+    <string name="_1947">1947</string>
+    <string name="_1952">1952</string>
+    <string name="_1960">1960</string>
+    <string name="submit_get_score"><u>Get Score</u></string>
+    <string name="question4">What year where the Lakers established?</string>
+    <string name="score_message">Here is your Score</string>
+    <string name="email_score"><u>Email Score</u></string>
+    <string name="reset"><u>Reset</u></string>
+    <string name="Percentage">%</string>
+    <string name="email_text">Lakers Quiz Score For:</string>
+    <string name="name">Name:</string>
+    <string name="score">Total Score:</string>
+    <string name="total_score">Total Score:</string>
+    <string name="thank_you">Thank You For Taking The Quiz</string>
+</resources>
